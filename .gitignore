@@ -1,0 +1,21 @@
+target/
+Cargo.lock
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Data directories
+data/
+data_custom/
+
